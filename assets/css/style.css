@@ -457,6 +457,9 @@ section {
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
+.card {
+  min-height: 700px;
+}
 .portfolio #portfolio-flters {
   padding: 0;
   margin: 0 auto 35px auto;
