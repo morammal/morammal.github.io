@@ -968,3 +968,17 @@ button {
 button:hover {
   background: #2eafec !important;
 }
+
+/* Custom */
+
+.content-collapse {
+  display: none;
+}
+
+.collapsible:after {
+  content: 'Show more'; /* Unicode character for "plus" sign (+) */
+}
+
+.active:after {
+  content: "Show less"; /* Unicode character for "minus" sign (-) */
+}
