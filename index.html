@@ -286,9 +286,10 @@
               </div>
               <div class="card-body">
                 <h5 class="card-title">UCL Eco-Marathon</h5>
-                <p class="card-text">We were tasked to design a repeatable vehicle that can move forward, hit a wall, and come back to its strating position autonomously without the use of a processing unit.</p>
-                <p class="card-text">Our design included a mechanical clock device (shown in blue) that converts the linear motion into rotational motion and is able to store the equivalent of 3m of linear displacement.</p>
-                <p class="card-text">We attached a DPDT switch to a spring damping mechanism on the front of the vehicle to automatically reverse the motor's rotation upon contact with the wall.</p>
+                <p class="card-text">1. Project overview: Design & Build an ultra-efficient prototype vehicle powered by a hydrogen fuel cell. Compete at Shell Eco-Marathon against other universities.</p>
+                <p class="card-text">2. UCL EM22 wiring loom during assembly. This includes DC-DC converters to deliver the required power to the motor and the fuel cell, supercapacitors for hybrid energy deployment, a safety harness and speed & power sensors for live telemetry.</p>
+                <p class="card-text">3. Safety harness used: 1x External emergency shutdown switch, 1x Driver shutdown switch & 1x Hydrogen sensor (in case of a leak). The relays will cut the current flowing into and out of the supercapacitors as well as the direct flow between the fuel cell and the motor controller. Also stops the power supply into the fuel cell which immediately shuts the hydrogen shutdown valve.</p>
+                <p class="card-text">4. Custom throttle made for EM22. The driver is able to select between 33%, 66% and 100% throttle automatically during the race. Includes a low pass filter to prevent a sudden current draw from the motor. Outer design made to match the grip from the fist whilst including a "dead man switch" that must be pressed at all times during operation.</p>
               </div>
             </div>
           </div>
@@ -304,19 +305,25 @@
               <!-- CODE ENDS HERE -->
               <div class="card-body">
                 <h5 class="card-title">UCL Formula Student</h5>
-                <p class="card-text">Our goal was to minimize the total weight of the vehicle and especially the mass of the wheels to reduce rolling resistance and inertial forces.</p>
-                <p class="card-text">Using Fusion360's topology optimization workspace, we were able to study the force distribution in wheel and then generate a design accordingly.</p>
-                <p class="card-text">Finally, we performed a static stress study to determine that the model will sustain the expected loads.</p>
+                <p class="card-text">1. Project overview: Design & build a single seater student race car. Use a 4-cylinder Honda CBR600 engine. Compete against other teams at Formula Student UK at Silverstone.</p>
+                <p class="card-text">2. Schematic of the Brake System Plausibility Device (BSPD): Small device installed in the car that activates the safety relays when there is an implausibility of more than 0.5s. The implausibility is a combination of brake force input of over 30 bars and the electronic throttle being more than 25% from its idle position.</p>
+                <p class="card-text">3. Lap time simulation on OptimumLap: Track map example showing the different gears engaged during a sprint run at the FSUK layout. This helped the drivers decide what gears they want to downshift to entering a corner and evaluate their performance with what the car can achieve.</p>
+                <p class="card-text">4. Vehicle simulation using IPG Carmaker: More thorough and detailed simulation software. Carmaker is currently being used to determine how small setup changes affect the overall performance as well as evaluating the new FS23 car.</p>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="card">
-              <img loading="lazy" class="card-img-top" src="assets/img/portfolio/Support-Gen-D.JPG" alt="Card image cap">
+              <div class="pic-ctn card-img-top" style="height: 320px;">
+                <img loading="lazy" src="assets/img/portfolio/FS-Render.JPG" class="card-img-top">
+                <img loading="lazy" src="assets/img/portfolio/FS-BSPD.JPG" class="card-img-top">
+                <img loading="lazy" src="assets/img/portfolio/wheel-topology.JPG" class="card-img-top">
+                <img loading="lazy" src="assets/img/portfolio/Support-Gen-D.JPG" class="card-img-top">
+              </div>
               <div class="card-body">
-                <h5 class="card-title">Generative Design  for lightweigth and rigid supports:</h5>
-                <p class="card-text">In our pursuit to minimize mass while maintaining structural stability, our team resorted to Fusion360's generative design workspace to generate supports that reduce the total weight but can still sustain the minimal forces.</p>
-                <p class="card-text">The design was generated to be manufactured using 3D printed PLA, thus the manufacturing method set to additive.</p>
+                <h5 class="card-title">2nd Year IMechE Design Challenge</h5>
+                <p class="card-text">1. Project overview: Design & Build a line launcher able to fire a squash ball into a small target from 6m away. Use precise electronic calibration to always have the exact desired position for firing.</p>
+                <p class="card-text">2. Use of linear springs to store the elastic potential energy and launch the ball with the required kinetic energy to maintain an optimal trajectory. Guide the ball via a gantry on an aluminium extrusion to minimize friction losses and increase accuracy.</p>
               </div>
             </div>
           </div>
@@ -324,21 +331,19 @@
             <div class="card">
               <img loading="lazy" class="card-img-top" src="assets/img/portfolio/FTC-1.JPG" alt="Card image cap">
               <div class="card-body">
-                <h5 class="card-title">Inside view of the 2017 FTC robot:</h5>
-                <p class="card-text">The 2017 FTC robot was tasked to collect balls from the ground and shoot them into a high basket. We were able to achieve that by: building an easily manoeuvrable drive train, mounting a fast collection system, and assembling an accurate "projectile launcher".</p>
-                <p class="card-text">For the drivetrain, we used mecanum wheels which allowed strafing and smoother movement, a crucial factor when considering the mobility of the robot for collecting balls. Wheels were connected via a chain and sprocket mechanism to the motors seen in the middle.</p>
-                <p class="card-text">The upper chain-sprocket mechanism was used for the collecting mechanism which consisted of fast rotating blades followed by a wall to push the balls upwards and prevent thier horizontal movement.</p>
-                <p class="card-text">Finally, we used sensors (UltraSonic visible) to program the autonomous period.</p>
+                <h5 class="card-title">1st Year IMechE Design Challenge</h5>
+                <p class="card-text">1. Project overview: Design a repeatable vehicle that can move forward, hit a wall, and return to its initial position without using a control unit. Our design included a mechanical clock device (shown in blue) that converts linear displacement into rotational displacement and is able to store the equivalent of 3m of forward movement.</p>
+                <p class="card-text">2. Wheel design: Our goal was to minimize the total weight of the vehicle and that of the wheels in particular to reduce rolling resistance and inertial forces. Using Fusion 360 Topology Optimization, we were able to study the force distribution and generate a model accordingly.</p>
+                <p class="card-text">3. Generative Design supports: In our pursuit to minimize mass while maintaining structural stability, we used the Generative Design workspace within Fusion360 to generate lightweight and rigid supports to be 3D printed from PLA.</p>
               </div>
-              
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="card">
               <img loading="lazy" class="card-img-top" src="assets/img/portfolio/mecanum-3D-print.JPG" alt="Card image cap">
               <div class="card-body">
-                <h5 class="card-title">3D printed mecanum wheels:</h5>
-                <p class="card-text">Being tight on budget, we couldn't go for buying mecanum wheels from an online provider.</p>
+                <h5 class="card-title">FIRST Tech Challenge 2017</h5>
+                <p class="card-text">1. Project overview: The season's task was to collect </p>
                 <p class="card-text">We thus decided to download a 3D model online and "manufacture" our own mecanum wheels. Each wheel took a total of 24h to be ready as shown in the image inclduing washers and hubs connections.</p>
               </div>
             </div>
