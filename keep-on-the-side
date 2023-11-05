@@ -1,0 +1,230 @@
+<button type="button" class="collapsible btn">Show / Hide Resume</button>
+        <div class="content-collapse"><div class="row">
+          <div class="col-lg-6" data-aos="fade-up">
+            <h3 class="resume-title">Education</h3>
+            <div class="resume-item">
+              <h4>MEng Mechanical Engineering</h4>
+              <h5>September 2020 - June 2024</h5>
+              <p><em>University College London UCL, London, United Kingdom</em></p><ul>
+                <li>On track for First-Class Honours, with combined average of 78% in Years 1&2.</li>
+                <li>Relevant modules: Advanced Thermodynamics & Fluid Mechanics, Control & Dynamics, Machine Learning & Neural Computing, Robotic Systems, Manufacturing & Design, Elasticiy & Plasticity.</li>
+            </div>
+            <div class="resume-item">
+              <h4>French Baccalaureate Scientific Series</h4>
+              <h5>September 2015 - June 2020</h5>
+              <p><em>Grand Lycée Franco-Libanais, Beirut, Lebanon</em></p>
+              <ul>
+                <li>Completed the scientific section of French Baccalaureate with an option in robotics scoring 19.08/20 overall.</li>
+                <li>A-level equivalent of A*A*A* in maths (20/20), physics (19/20) and robotics (20/20).</li>
+                <li>OIB in Arabic, History and Geography.</li>
+              </ul>
+            </div>
+            <h3 class="resume-title">Competitions & Awards</h3>
+            <div class="resume-item">
+              <h4>Formula Student UK</h4>
+              <h5>July 2022</h5>
+              <p><em>Silverstone, United Kingdom</em></p>
+              <ul>
+                <li>2nd place in the Sprint Race.</li>
+                <li>21st Overall as rookies.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>UCL Accessibility Hackathons</h4>
+              <h5>September 2020 and September 2021</h5>
+              <p><em>UCL, London, United Kingdom</em></p>
+              <ul>
+                <li>Won “Best Innovative Idea” and “Creative Presentation” awards for designing a new muscle-aid device for patients suffering from neuromuscular disorders.</li>
+                <li>Won “Most Impactful Idea” for designing a mobile app to help Down Syndrome patients communicate with their caretakers. Worked on an Interactive UI which translated the individual’s needs through pictures.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>FIRST Tech Challenge (FTC)</h4>
+              <h5>September 2015 - April 2019</h5>
+              <p><em>Houston, TX, USA and Beirut, Lebanon</em></p>
+              <ul>
+                <li>Awards by year:
+                  <ul>
+                  <li>2016 - National Competition: Best Mechanical Design + 2nd place overall.</li>
+                  <li>2016 - World Championship: Judges' Award Finalists.</li>
+                  <li>2017 - National Competition: Best Mechanical Design + 1st Place overall.</li>
+                  <li>2017 - World Championship: Top 50 overall winning 6 matches out of 9.</li>
+                  <li>2018 - National Competition: Best Mechanical Design + 2nd place overall.</li>
+                  <li>2018 - World Championship: Judges' Award Winners, Outreach Award Finalists.</li>
+                  <li>2019 - National Competition: Best Mechanical Design + 2nd place overall.</li>
+                  <li>2019 - World Championship: Top 70 overall winning 5 matches out of 9.</li>
+                </ul></li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>AUB MSFEA Entrepreneurship Program 3rd place</h4>
+              <h5>July 2018 - August 2018</h5>
+              <p><em>American University of Beirut, Beirut, Lebanon</em></p>
+              <ul>
+                <li>Attended a series of IoT workshops, events and talks from entrepreneurs and environmentalists.</li>
+                <li>Designed and built a pollution detection system for carbon-emitting power-plants using Raspberry Pi 3 and Python, with threshold evaluation and push-notifications to alert the administrators to change filters.</li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <h3 class="resume-title">Experience</h3>
+            <div class="resume-item">
+              <h4>Formula Student Simulation Lead & Design Engineer</h4>
+              <h5>May 2022 - Present</h5>
+              <p><em>UCL, London, United Kingdom</em></p>
+              <ul>
+                <li>Simulated the UCL Formula Student car’s behaviour in different environments and setups using IPG Carmaker and OptimumLap.</li>
+                <li>Designed and assembled the Brake System Plausibility Device that opens the emergency shutdown circuit
+                  when hard braking occurs after a specified throttle position.</li>
+                <li>Designed crucial components such as brake sensor mount, exhaust manifold and steering system assembly.</li>
+                <li>Oversaw waterjet cutting of steel chassis mounts. Prepared CAM files for 3-axis machining of large aluminium components. Used Denford router to cut carbon fibre body panels.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Eco-Marathon Powertrain & Control-Electronics Lead</h4>
+              <h5>October 2021 - Mar 2023</h5>
+              <p><em>UCL, London, United Kingdom</em></p>
+              <ul>
+                <li>Designed and manufactured the vehicle’s loom. Ensured electrical components receive efficient power supply.</li>
+                <li>Provided the driver with live telemetry readings, a control dashboard and custom electronic accessories.</li>
+                <li>Used a CAN-BUS system to efficiently transfer data between components and the dashboard.</li>
+                <li>Designed and assembled customized PCB boards to improve packaging and efficiency.</li>
+                <li>Total powertrain efficiency up to 93%. Car mileage simulated to around 3000km/m3.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Senior Workshop Mentor</h4>
+              <h5>November 2021 - Present</h5>
+              <p><em>UCL MechSpace, London, United Kingdom</em></p>
+              <ul><li>Provide students with the necessary help using the machinery in the workshops such as lathes, drills, laser
+                cutters and 3D printers. Train junior mentors to use and maintain the workshop equipment.</li></ul>
+            </div>
+            <div class="resume-item">
+              <h4>Vice President at UCL Mechanical Engineering Society</h4>
+              <h5>October 2020 - Present</h5>
+              <p><em>University College London UCL, London, United Kingdom</em></p><ul>
+                <li>Organise extracurricular events for students such as socials, career talks and engineering competitions.</li>
+                <li>Partnered with Autodesk for 2 mechathons with 90+ participants each.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Project Impactive CAD mentor</h4>
+              <h5>February 2021</h5>
+              <p><em>Project Impactive London</em></p>
+              <ul><li>Prepared and delivered an interactive course to high school students on the basics of Fusion360.</li></ul>
+            </div>
+            <div class="resume-item">
+              <h4>FIRST Tech Challenge (FTC) Mechanical Lead</h4>
+              <h5>September 2015 - April 2019</h5>
+              <p><em>Houston, TX, USA and Beirut, Lebanon</em></p>
+              <ul>
+                <li>Team of threre members, then expanded to eight, working at home with our own resources, financing our seasons through assembling and selling 3D printers locally. </li>
+                <li>Acquired skills in finding innovative solutions, project management, business plan, communication, leadership, Java programming (Android Studio), design mechanical models (Fusion360), and manufacturing.</li>
+                <li>Used Fusion 360 to design and model the different components of our robots, and simulate their interactions and behaviour within the system as well as with the external environment.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Workshop Assistant</h4>
+              <h5>July 2019</h5>
+              <p><em>Warde Steels and Metals, Beirut and Richmaya, Lebanon</em></p>
+              <ul><li>Renovated an old firefighting system in a hydroelectric power plant in Lebanon, through diagnosing electrical and mechanical defects, planning and applying fixes, and iteratively testing the system.
+              </li></ul>
+            </div>
+          </div>
+        </div>
+        </div></div>
+      </div>
+    </section><!-- End Resume Section -->
+
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio section-bg">
+      <div class="container">
+        <div class="section-title">
+          <h2>Portfolio</h2>
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="card">
+              <div class="pic-ctn-4 card-img-top" style="height: 320px;">
+                <img src="assets/img/portfolio/EM-car.JPG" class="card-img-top img-4">
+                <img src="assets/img/portfolio/EM-Loom-Full.JPG" class="card-img-top img-4">
+                <img src="assets/img/portfolio/EM-Loom-Safety.JPG" class="card-img-top img-4">
+                <img src="assets/img/portfolio/EM-Throttle.JPG" class="card-img-top img-4">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">UCL Eco-Marathon</h5>
+                <p class="card-text">1. Project overview: Design & Build an ultra-efficient prototype vehicle powered by a hydrogen fuel cell. Compete at Shell Eco-Marathon against other universities.</p>
+                <p class="card-text">2. UCL EM22 wiring loom during assembly. This includes DC-DC converters to deliver the required power to the motor and the fuel cell, supercapacitors for hybrid energy deployment, a safety harness and speed & power sensors for live telemetry.</p>
+                <p class="card-text">3. Safety harness used: 1x External emergency shutdown switch, 1x Driver shutdown switch & 1x Hydrogen sensor (in case of a leak). The relays will cut the current flowing into and out of the supercapacitors as well as the direct flow between the fuel cell and the motor controller. Also stops the power supply into the fuel cell which immediately shuts the hydrogen shutdown valve.</p>
+                <p class="card-text">4. Custom throttle made for EM22. The driver is able to select between 33%, 66% and 100% throttle automatically during the race. Includes a low pass filter to prevent a sudden current draw from the motor. Outer design made to match the grip from the fist whilst including a "dead man switch" that must be pressed at all times during operation.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="card">
+              <!-- USE THIS CODE FOR CAROUSEL -->
+              <div class="pic-ctn-4 card-img-top" style="height: 380px;">
+                <img src="assets/img/portfolio/FS-Render.JPG" class="card-img-top img-4">
+                <img src="assets/img/portfolio/FS-BSPD.JPG" class="card-img-top img-4">
+                <img src="assets/img/portfolio/OptimumLap.JPG" class="card-img-top img-4">
+                <img src="assets/img/portfolio/IPG-Sim.JPG" class="card-img-top img-4">
+              </div>
+              <!-- CODE ENDS HERE -->
+              <div class="card-body">
+                <h5 class="card-title">UCL Formula Student</h5>
+                <p class="card-text">1. Project overview: Design & build a single seater student race car. Use a 4-cylinder Honda CBR600 engine. Compete against other teams at Formula Student UK at Silverstone.</p>
+                <p class="card-text">2. Schematic of the Brake System Plausibility Device (BSPD): Small device installed in the car that activates the safety relays when there is an implausibility of more than 0.5s. The implausibility is a combination of brake force input of over 30 bars and the electronic throttle being more than 25% from its idle position.</p>
+                <p class="card-text">3. Lap time simulation on OptimumLap: Track map example showing the different gears engaged during a sprint run at the FSUK layout. This helped the drivers decide what gears they want to downshift to entering a corner and evaluate their performance with what the car can achieve.</p>
+                <p class="card-text">4. Vehicle simulation using IPG Carmaker: More thorough and detailed simulation software. Carmaker is currently being used to determine how small setup changes affect the overall performance as well as evaluating the new FS23 car.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="card">
+              <div class="pic-ctn-4 card-img-top" style="height: 420px;">
+                <img src="assets/img/portfolio/IMechE2-Overall.JPG" class="card-img-top img-4">
+                <img src="assets/img/portfolio/Spring-Gantry.JPG" class="card-img-top img-4">
+                <img src="assets/img/portfolio/IMechE2-Overall.JPG" class="card-img-top img-4">
+                <img src="assets/img/portfolio/Spring-Gantry.JPG" class="card-img-top img-4">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">2nd Year IMechE Design Challenge</h5>
+                <p class="card-text">1. Project overview: Design & Build a line launcher able to fire a squash ball into a small target from 6m away. Use precise electronic calibration to always have the exact desired position for firing.</p>
+                <p class="card-text">2. Use of linear springs to store the elastic potential energy and launch the ball with the required kinetic energy to maintain an optimal trajectory. Guide the ball via a gantry on an aluminium extrusion to minimize friction losses and increase accuracy.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="card">
+              <div class="pic-ctn-3 card-img-top" style="height: 320px;">
+                <img src="assets/img/portfolio/IMechE-render.JPG" class="card-img-top img-3">
+                <img src="assets/img/portfolio/wheel-topology.JPG" class="card-img-top img-3">
+                <img src="assets/img/portfolio/Support-Gen-D.JPG" class="card-img-top img-3">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">1st Year IMechE Design Challenge</h5>
+                <p class="card-text">1. Project overview: Design a repeatable vehicle that can move forward, hit a wall, and return to its initial position without using a control unit. Our design included a mechanical clock device (shown in blue) that converts linear displacement into rotational displacement and is able to store the equivalent of 3m of forward movement.</p>
+                <p class="card-text">2. Wheel design: Our goal was to minimize the total weight of the vehicle and that of the wheels in particular to reduce rolling resistance and inertial forces. Using Fusion 360 Topology Optimization, we were able to study the force distribution and generate a model accordingly.</p>
+                <p class="card-text">3. Generative Design supports: In our pursuit to minimize mass while maintaining structural stability, we used the Generative Design workspace within Fusion360 to generate lightweight and rigid supports to be 3D printed from PLA.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="card">
+              <div class="pic-ctn-3 card-img-top" style="height: 320px;">
+                <img src="assets/img/portfolio/FTC-2.JPG" class="card-img-top img-3">
+                <img src="assets/img/portfolio/mecanum-3D-print.JPG" class="card-img-top img-3">
+                <img src="assets/img/portfolio/FTC-1.JPG" class="card-img-top img-3">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title">FIRST Tech Challenge 2017</h5>
+                <p class="card-text">1. Project overview: The season's task was to collect balls from the ground and shoot them into an elevated basket. This was acheived by building an easily manoeuvrable drivetrain, mounting a fast collection system and assembling an accurate "ball shooter".</p>
+                <p class="card-text">2. Custom mecanum wheels: For the drivetrain, we used mecanum wheels allowing strafing and smooth movement to be able to quickly change orientation to collect a ball from the ground. Being tight on budget, we decided to 3D print and assemble our own custom mecanum wheels which took around 24h/wheel.</p>
+                <p class="card-text">3. Inside view of the 2017 FTC Robot: The upper chain was used for the collecting mechanism that consisted of fast rotating blades that push the balls into an inclined wall that forces them up and into the launch mechanism. The wheels are driven by the lower sprockets connected to the centralised motors.</p>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div>
+      </div>
+    </section><!-- End Portfolio Section -->
